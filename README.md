@@ -5,3 +5,5 @@ Learning some basic data science with python
 
 - Anaconda python 3.8 distribution
 - Jupyter Notebooks
+
+Initial commits follow <https://www.dataquest.io/blog/jupyter-notebook-tutorial/>
